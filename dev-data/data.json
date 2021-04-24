@@ -1,0 +1,59 @@
+[
+    {
+        "id": 0, 
+        "productName": "Fresh Apple",
+        "image": "🍎 ",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4 🍎",
+        "price": "6.50",
+        "organic": true,
+        "description": "Apples are among the world’s most popular fruits.They grow on the apple tree (Malus domestica, originally from Central Asia.Apples are high in fiber, vitamin C, and various antioxidants. They are also very filling, considering their low calorie count. Studies show that eating apples can have multiple benefits for your health (1, 2Trusted Source, 3Trusted Source, 4Trusted Source"
+      },
+      {
+        "id": 1,
+        "productName": "Kiwi",
+        "image": "🥝 ",
+        "from": "Portugal",
+        "nutrients": "Vitamin A, Calcium",
+        "quantity": "250g",
+        "price": "5.00",
+        "organic": false,
+        "description": "Kiwi prefer to live in burrows they make in forested areas. They either make their burrows in the ground like rabbits, in between the roots of trees, or in hidden sheltered places such as hollow logs. Kiwi line their burrows with leaves to make them more comfortable and warm. Sometimes they hide the entrance to their burrows using piles of twigs. Kiwi may have more than ten different burrows in their territory and will swap between them sometimes"
+      },
+      {
+        "id": 2,
+        "productName": "Watermallon",
+        "image": "🍉",
+        "from": "Portugal",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "3 🍉",
+        "price": "5.50",
+        "organic": true,
+        "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+      },
+      {
+        "id": 3,
+        "productName": "Pineaple",
+        "image": "🍍 ",
+        "from": "France",
+        "nutrients": "Vitamin A, Vitamin K",
+        "quantity": "20 🍍 ",
+        "price": "3.00",
+        "organic": true,
+        "description": "The edible flesh is surrounded by green bracts that turn into orange when ripe, which form the skin of the fruit. The bracts are clustered in the upper part of the fruit forming a tuft of leaves. Pineapples have yellow or white pulp, fleshy, aromatic, juicy and sweet. ... It is a fleshy fruit ending in a crown of leaves.."
+      },
+      {
+        "id": 4,
+        "productName": "Sweet Corncobs",
+        "image": "🍌 ",
+        "from": "Germany",
+        "nutrients": "Vitamin C, Magnesium",
+        "quantity": "2 🍌 ",
+        "price": "2.00",
+        "organic": false,
+        "description": "he banana fruits grow from a banana blossom in hanging clusters, also called a bunch or banana stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms (65 to 110 pounds)."
+    }
+]
+     
+    
